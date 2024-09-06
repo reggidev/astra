@@ -4,7 +4,7 @@
 Landing page para construtor de sites com IA
 O Astra é um construtor de sites que utiliza inteligência artificial para permitir a criação rápida e fácil de sites personalizados, sem a necessidade de código.
 
-Visite agora: https://astra-landing-page-two.vercel.app/
+Visite agora: https://astra-lp.vercel.app/
 
 ## Como funciona
 
