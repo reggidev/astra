@@ -16,7 +16,7 @@ const Footer = () => {
                         <Icons.logo className="w-7 h-7" />
                     </div>
                     <p className="text-muted-foreground mt-4 text-sm text-start">
-                        Build beautiful, functional websites, without writing code
+                        Build beautiful, functional websites, without writing code.
                     </p>
                     <span className="mt-4 text-neutral-200 text-sm flex items-center">
                         Made in India with
