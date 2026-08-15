@@ -69,6 +69,7 @@ const HomePage = () => {
                                     width={1200}
                                     height={1200}
                                     quality={100}
+                                    preload
                                     className="rounded-md lg:rounded-xl bg-foreground/10 shadow-2xl ring-1 ring-border"
                                 />
 
